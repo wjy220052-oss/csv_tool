@@ -1,0 +1,12 @@
+user_id,username,age,salary,is_active,join_date,last_login,city,score,remark
+1001,Alice,25,5500.5,true,2023-01-01,2024-03-01 10:00:00,Beijing,88.5,good
+1002,Bob,,6200,false,2022/05/10,2024-03-02 11:20:00,Shanghai,92,NULL
+1003,Charlie,30,NULL,true,2021-07-15,,Guangzhou,85.0,
+1004,David,28,7000,true,2020-12-20,2024/03/03 09:15:00,,90.0,excellent
+1005,Eve,NaN,8000,false,2019-11-11,2024-03-04 14:30:00,Shenzhen,NaN,none
+1006,Frank,00123,4500,true,20240305,2024-03-05 08:00:00,Beijing,77.0,test
+1007,Grace,27,5,TRUE,2023-06-01,2024-03-06 12:00:00,Shanghai,88.0,ok
+1008,Hank,twenty,6000,false,2023-07-01,not_a_date,Guangzhou,91.0,error
+1009,Ivy,29,7000.00,true,2023-08-01,2024-03-07 09:00:00,Beijing,95.0,
+1010,Jack,30,7000,true,2023-08-01,2024-03-07 09:00:00,Beijing,95.0,
+1010,Jack,30,7000,true,2023-08-01,2024-03-07 09:00:00,Beijing,95.0,
